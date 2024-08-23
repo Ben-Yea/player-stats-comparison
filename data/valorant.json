@@ -4,9 +4,9 @@
         "Deaths": 14,
         "Headshots": 10
     },
-    "Greg": {
-        "Kills": 2,
-        "Deaths": 9,
-        "Headshots": 0,
+    "Bob": {
+        "Kills": 30,
+        "Deaths": 8,
+        "Headshots": 15
     }
 }

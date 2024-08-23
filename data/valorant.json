@@ -3,5 +3,10 @@
         "Kills": 22,
         "Deaths": 14,
         "Headshots": 10
+    },
+    "Greg": {
+        "Kills": 2,
+        "Deaths": 9,
+        "Headshots": 0"
     }
 }

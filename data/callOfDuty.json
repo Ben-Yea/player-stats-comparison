@@ -1,12 +1,12 @@
 {
-    "Ben": {
-        "Kills": 12,
-        "Deaths": 7,
-        "Assists": 5
-    },
-    "Jarrod": {
-        "Kills": 15,
-        "Deaths": 6,
-        "Assists": 8
-    }
+  "Ben": {
+    "Kills": 12,
+    "Deaths": 7,
+    "Assists": 5
+  },
+  "Jarrod": {
+    "Kills": 15,
+    "Deaths": 6,
+    "Assists": 8
+  }
 }

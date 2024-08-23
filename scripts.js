@@ -1,7 +1,7 @@
 function loadGameData(gameName) {
     const gameFileMap = {
-        "Call of Duty": "data/callOfDuty.json",
-        "League of Legends": "data/leagueOfLegends.json",
+        "Call of Duty": "data/callofduty.json",
+        "League of Legends": "data/leagueoflegends.json",
         "Valorant": "data/valorant.json",
         "Fortnite": "data/fortnite.json"
     };
